@@ -18,7 +18,7 @@ namespace ConsoleApp
                 }
                 Console.WriteLine();
             }
-            Console.WriteLine();
+            Console.WriteLine(Array_Helper.FindMaximumValueInArray(array));
         }
     }
 }
